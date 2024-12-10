@@ -8,4 +8,6 @@ The only problem is that there are only a few programs that support 7z extractio
 
 Please note that I am not responsible for what you do with this.
 
+It's also completely untested, so it may not work at all to begin with, but WHATEVA!!
+
 Password:ADIOS AMIGO
